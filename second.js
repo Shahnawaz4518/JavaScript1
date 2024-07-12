@@ -73,7 +73,7 @@ For(let key in student){
 
 let str="shahnawaz khan";
 str.toUpperCase();
-console.log(str);*/
+console.log(str);
 
 //question no 1
 
@@ -81,4 +81,7 @@ console.log(str);*/
  //console.log("fullname");
 
  let username="@"+fullname+fullname.length;
- console.log(username);
+ console.log(username);*/
+
+ 
+
